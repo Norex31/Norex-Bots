@@ -1,0 +1,23 @@
+{
+  "name": "narcos-code",
+  "version": "3.0.0",
+  "description": "Sıfırdan Bot Serisi S2",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "MustafaMert",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord-fivem-api": "^1.0.6",
+    "discord.js": "^13.6.0",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "nrc.db": "^2.1.0"
+  },
+  "devDependencies": {
+    "discord-api-types": "^0.23.1"
+  }
+}
